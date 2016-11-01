@@ -119,9 +119,10 @@ a:hover {
 }
 
 .main-footer p {
+  font-size: 1em;
   display: inline-block;
   width: 100%;
-  margin: 40px auto;
+  margin: 40px auto 0px;
   text-align: center;
   color: #9B9B9B;
 }
