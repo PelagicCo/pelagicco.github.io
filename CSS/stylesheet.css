@@ -120,6 +120,7 @@ a:hover {
 
 .main-footer p {
   font-size: 1em;
+  font-weight: 300;
   display: inline-block;
   width: 100%;
   margin: 40px auto 0px;
