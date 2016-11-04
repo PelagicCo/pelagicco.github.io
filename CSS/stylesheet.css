@@ -119,7 +119,7 @@ a:hover {
 }
 
 .main-footer p {
-  font-size: 1em;
+  font-size: 0.875em;
   font-weight: 300;
   display: inline-block;
   width: 100%;
@@ -196,6 +196,10 @@ a:hover {
 
   .bio p {
     font-size: 1.0625em;
+  }
+
+  .main-footer p {
+    font-size: 1em;
   }
 
 }
